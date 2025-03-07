@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+flask = "*"
+openpyxl = "*"
+flask-cors = "*"
+pandas = "*"
+scikit-learn = "*"
+djangorestframework = "==3.14.0"
+django-cors-headers = "==4.3.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
