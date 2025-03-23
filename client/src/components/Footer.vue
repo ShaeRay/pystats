@@ -41,7 +41,9 @@
                 Created by ShaeRay
             </div>
             <div class="text-center font-light flex items-center justify-center">
-                <a href="https://beian.miit.gov.cn/" target="_blank" class=" text-xs pt-1 active:text-cyan-300 hover:text-cyan-500">皖ICP备2024042528号</a>
+                <a href="https://beian.miit.gov.cn/" target="_blank" class=" text-xs pt-1 active:text-cyan-300 hover:text-cyan-500">	
+                    皖ICP备2024042528号-2
+                </a>
             </div>
         </div>
     </footer>
